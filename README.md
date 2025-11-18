@@ -20,7 +20,7 @@ The architecture follows a simple but powerful design:
 
 A reference architecture diagram is included in this repository for better visualization.
 
-![Alt text](Reference Architecture - Static Website Deployement.png)
+![Reference Architecture](Reference Architecture - Static Website Deployement.png)
 
 ## **Services Used**
 
